@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="326e15f7-ecc0-4f6f-b620-09d9e76c8027" name="barcode.hg-world.com" url="http://barcode.hg-world.com">
+        <fileTransfer host="ftp.hg-world.com" port="21">
+          <advancedOptions>
+            <advancedOptions compatibilityMode="true" dataProtectionLevel="Private" passiveMode="true" accurateTimestamps="ALWAYS" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

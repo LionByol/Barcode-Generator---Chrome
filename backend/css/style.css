@@ -1,0 +1,19 @@
+body {
+  padding-top: 50px;
+}
+.wrap-page {
+  padding: 40px 15px;
+  text-align: center;
+}
+.choosefile {
+	margin-top: 50px;
+}
+#excelfile {
+	margin-top: 10px;
+}
+.excel-alert {
+	margin-top: 10px;
+}
+#excel-columns {
+    margin-top: 10px;
+}
