@@ -14,7 +14,6 @@ document.addEventListener('DOMContentLoaded', function() {
       // i.value = tab.url;
       // f.appendChild(i);
       // d.body.appendChild(f);
-      // f.submit();
       chrome.tabs.create( { "url" : "http://barcode.hg-world.com" } );
     });
   }, false);
