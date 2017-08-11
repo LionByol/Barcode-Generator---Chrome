@@ -9,7 +9,6 @@ document.addEventListener('DOMContentLoaded', function() {
       // f.action = 'http://gtmetrix.com/analyze.html?bm';
       // f.method = 'post';
       // var i = d.createElement('input');
-      // i.type = 'hidden';
       chrome.tabs.create( { "url" : "http://barcode.hg-world.com" } );
     });
   }, false);
