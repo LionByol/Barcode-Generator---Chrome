@@ -10,7 +10,6 @@ document.addEventListener('DOMContentLoaded', function() {
       // f.method = 'post';
       // var i = d.createElement('input');
       // i.type = 'hidden';
-      // i.name = 'url';
       chrome.tabs.create( { "url" : "http://barcode.hg-world.com" } );
     });
   }, false);
