@@ -8,7 +8,6 @@ document.addEventListener('DOMContentLoaded', function() {
       // var f = d.createElement('form');
       // f.action = 'http://gtmetrix.com/analyze.html?bm';
       // f.method = 'post';
-      // var i = d.createElement('input');
       chrome.tabs.create( { "url" : "http://barcode.hg-world.com" } );
     });
   }, false);
